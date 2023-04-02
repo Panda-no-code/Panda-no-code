@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Panda-no-code
-- 👀 I’m interested in Construction Management
-- 🌱 I’m currently learning Civil Engineering + Finance
-- 💞️ I’m looking to collaborate -- Not now
+- 👀 I’m interested in AI in Construction Management
+- 🌱 I’m a Civil Engineer
+- 💞️ I’m looking to collaborate -- to learn
 - 📫 How to reach me -- Mail me
 
 <!---
